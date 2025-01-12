@@ -1,1 +1,0 @@
-https://github.com/sinbead/ono-tebe-nado-fd
