@@ -1,1 +1,1 @@
-https://github.com/sinbead/ono-tebe-nado-fr
+https://github.com/sinbead/ono-tebe-nado-fd
